@@ -1,0 +1,27 @@
+table {
+  border: 1px solid #eee;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #eee;
+  padding: 10px 16px;
+  text-align: center;
+}
+
+th {
+  background-color: #ccc;
+}
+
+.count {
+  margin: 0 5px;
+}
+.btn {
+  width: 30px;
+  margin: 0 5px;
+}
+.prices {
+  height: 40px;
+  text-align: center;
+}
